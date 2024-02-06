@@ -3,7 +3,7 @@
 <img align="center" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedlaoun&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedlaoun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedlaoun" alt="ahmedlaoun" /></a> </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedlaoun)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
