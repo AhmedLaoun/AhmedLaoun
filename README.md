@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Laoun</h1>
 <h3 align="center">.Net and adndroid apps developper</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedlaoun&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedlaoun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedlaoun" alt="ahmedlaoun" /></a> </p>
